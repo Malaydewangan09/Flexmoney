@@ -31,8 +31,8 @@ python manage.py migrate
 ....and database will get migrated to postgresql
 9)Now lets create Admin superuser
 python manage.py createsuperuser
-username=nikhil
-email=nikhil@gmail.com
+username=md
+email=md@gmail.com
 password=123(won't be able to see typed characters.so don't worry.just type it)
 confirm password=123(won't be able to see typed characters.so don't worry.just type it)
 weak password[Y/N]=Y
